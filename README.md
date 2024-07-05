@@ -53,4 +53,4 @@ python background_remover.py
 
 # License
 
-This project is licensed under the [MIT License](LICENSE.txt). See the LICENSE.txt file for details.
+This project is licensed under the [MIT License](LICENSE). See the LICENSE.txt file for details.
