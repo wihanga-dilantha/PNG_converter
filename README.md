@@ -34,7 +34,7 @@ pip install rembg Pillow
 **4. Run the application:**
 
 ```bash
-python background_remover.py
+python PNGMaker.py
 ```
 ## Usage
 
